@@ -1,7 +1,7 @@
 ### Quick Note
-This is a summary of a presentation given for the Graduates Rising in Information and Data Science (GRIDS) student organization at the University of Southern California. This presentation was given on April 21, 2021 and recieved the "Best Presentation" award out of about 20 presentations.
+This is a summary of a presentation given for the [Graduates Rising in Information and Data Science (GRIDS)](https://gridsusc.github.io/) student organization at the University of Southern California. This presentation was given on April 21, 2021 and received the "Best Presentation" award out of about 20 presentations.
 
-The team included Jonathan Gonzalez and Asjad Asif Jah, and the mentor for the project was Dr. Hernan Galperin.
+The team included [Jonathan Gonzalez](https://www.linkedin.com/in/ja-gonzalez/) and [Asjad Asif Jah](https://www.linkedin.com/in/asjad-asif-jah/), and the mentor for the project was [Dr. Hernan Galperin](https://annenberg.usc.edu/faculty/hernan-galperin).
 
 
 # Introduction
@@ -37,6 +37,8 @@ The figure below shows the distribution of block groups as a function of the per
 The figure below shows the distribution of block groups as a function of the urban index of the block group. A low urban index means the block group is very rural, while a high urban index means the block group is very urban. Again, the graph on the left represents block groups with local ISPs, and the graph on the right represents block groups without local ISPs. The block groups with local ISPs tend to be more underserved.
 ![img](presentations/photos_for_github_pages/fig_3.png)
 
+Additional histograms can be found in [the figures folder for this repository.](figures/histograms/) 
+
 
 # Matching Census Block Groups
 
@@ -57,41 +59,10 @@ Since we are seeing an increase in coverage in rural areas, one potential explan
 
 As of now, we cannot confirm that local ISPs have lower costs compared to traditional ISPs since data about internet costs are very limited.
 
+# Thank you for Reading!
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jonandgon/microtelcos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonandgon/microtelcos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center">
+<img width="150" src="presentations/photos_for_github_pages/usc_logo.jpg">           <img width="150" src="presentations/photos_for_github_pages/grids_logo.png">
+</p>
