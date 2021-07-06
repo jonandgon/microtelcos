@@ -37,7 +37,7 @@ The figure below shows the distribution of block groups as a function of the per
 The figure below shows the distribution of block groups as a function of the urban index of the block group. A low urban index means the block group is very rural, while a high urban index means the block group is very urban. Again, the graph on the left represents block groups with local ISPs, and the graph on the right represents block groups without local ISPs. The block groups with local ISPs tend to be more underserved.
 ![img](presentations/photos_for_github_pages/fig_3.png)
 
-Additional histograms can be found in [the figures folder for this repository.](microtelcos/figures/histograms/)
+Additional histograms can be found in [the figures folder for this repository.](figures/histograms/) 
 
 
 # Matching Census Block Groups
