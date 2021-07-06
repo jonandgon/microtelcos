@@ -18,6 +18,8 @@ We used geographic and demographic data from the US Census Bureau, ISP data from
 
 We joined this data together to create an interactive, AWS-hosted map that shows the presence of local ISPs and the quality of internet throughout California. The map shows data at a census block group level, and the data has been aggregated using the census block population. The figure below provides a snapshot for how the looks. A more detailed interactive map is in the works, the map we created is more of a proof of concept.
 
+![img](presentations/photos_for_github_pages/fig_1.png)
+
 
 # Microtelcos Overview
 
