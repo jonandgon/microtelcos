@@ -1,7 +1,7 @@
 ### Quick Note
 This is a summary of a presentation given for the [Graduates Rising in Information and Data Science (GRIDS)](https://gridsusc.github.io/) student organization at the University of Southern California. This presentation was given on April 21, 2021 and received the "Best Presentation" award out of about 20 presentations.
 
-The team included Jonathan Gonzalez and Asjad Asif Jah, and the mentor for the project was Dr. Hernan Galperin.
+The team included [Jonathan Gonzalez](https://www.linkedin.com/in/ja-gonzalez/) and [Asjad Asif Jah](https://www.linkedin.com/in/asjad-asif-jah/), and the mentor for the project was [Dr. Hernan Galperin](https://annenberg.usc.edu/faculty/hernan-galperin).
 
 
 # Introduction
