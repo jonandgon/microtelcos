@@ -1,5 +1,5 @@
 ### Quick Note
-This is a summary of a presentation given for the Graduates Rising in Information and Data Science (GRIDS) student organization at the University of Southern California. This presentation was given on April 21, 2021 and recieved the "Best Presentation" award out of about 20 presentations.
+This is a summary of a presentation given for the [Graduates Rising in Information and Data Science (GRIDS)](https://gridsusc.github.io/) student organization at the University of Southern California. This presentation was given on April 21, 2021 and recieved the "Best Presentation" award out of about 20 presentations.
 
 The team included Jonathan Gonzalez and Asjad Asif Jah, and the mentor for the project was Dr. Hernan Galperin.
 
@@ -37,6 +37,8 @@ The figure below shows the distribution of block groups as a function of the per
 The figure below shows the distribution of block groups as a function of the urban index of the block group. A low urban index means the block group is very rural, while a high urban index means the block group is very urban. Again, the graph on the left represents block groups with local ISPs, and the graph on the right represents block groups without local ISPs. The block groups with local ISPs tend to be more underserved.
 ![img](presentations/photos_for_github_pages/fig_3.png)
 
+Additional histograms can be found in [the figures folder for this repository.](microtelcos/figures/histograms/)
+
 
 # Matching Census Block Groups
 
@@ -61,5 +63,6 @@ As of now, we cannot confirm that local ISPs have lower costs compared to tradit
 
 
 
-
-<img width="150" src="presentations/photos_for_github_pages/usc_logo.jpg"> | <img width="150"src="presentations/photos_for_github_pages/grids_logo.png">
+<p align="center">
+<img width="150" src="presentations/photos_for_github_pages/usc_logo.jpg"> | <img width="150" src="presentations/photos_for_github_pages/grids_logo.png">
+</p>
