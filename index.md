@@ -59,4 +59,4 @@ As of now, we cannot confirm that local ISPs have lower costs compared to tradit
 
 # Thank you for Reading!
 
-![img](presentations/photos_for_github_pages/usc_logo.png) | ![img](presentations/photos_for_github_pages/grids_logo.png)
+![img](presentations/photos_for_github_pages/usc_logo.jpg) | ![img](presentations/photos_for_github_pages/grids_logo.png)
