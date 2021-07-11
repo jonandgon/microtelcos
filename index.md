@@ -55,7 +55,8 @@ Additional histograms can be found in [the figures folder for this repository.](
 
 To find the effects that a local ISP has on a block group’s internet performance, we used a common social science technique called matching. Matching is similar to k-means clustering, where k approaches the number of treated units. We purposefully reduce the dimensionality when matching to include only what we think are the most relevant dimensions. We do this to increase matching quality and processing speed. 
 
-The figure below illustrates what matching looks like. The figure shows histograms of one of our matching variables which is the percentage of people with a Bachelor’s degree or higher for a block group. Before, matching, we can see that block groups with a local ISP tend to have less education than those without a local ISP (by virtue of being more rural). In matching, the goal is to find similar block groups to our treated block groups so we can find the effect of the treatment. After matching, we can see that we have two <p align="center">
+The figure below illustrates what matching looks like. The figure shows histograms of one of our matching variables which is the percentage of people with a Bachelor’s degree or higher for a block group. Before, matching, we can see that block groups with a local ISP tend to have less education than those without a local ISP (by virtue of being more rural). In matching, the goal is to find similar block groups to our treated block groups so we can find the effect of the treatment. After matching, we can see that we have two groups with similar characteristics. Note that matching is done along multiple variables.
+ <p align="center">
   <img src="presentations/photos_for_github_pages/fig_4.png"/>
 </p>
 
