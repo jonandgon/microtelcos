@@ -28,7 +28,7 @@ Each data set came in various shapes/sizes/forms. The data is highly geographica
   <img src="presentations/photos_for_github_pages/fig_6.png"/>
 </p>
 
-We joined this data together to create an interactive, AWS-hosted map that shows the presence of local ISPs and the quality of internet throughout California. The map shows data at a census block group level, and the data has been aggregated using the census block population. The figure below provides a snapshot for how the looks. A more detailed interactive map is in the works, the map we created is more of a proof of concept.
+We joined this data together to create an interactive, AWS-hosted map that shows the presence of local ISPs and the quality of internet throughout California. The map shows data at a census block group level, and the data has been aggregated using the census block population. The figure below provides a snapshot of the map. A more detailed interactive map is in the works, the map we created is more of a proof of concept.
 <p align="center">
   <img src="presentations/photos_for_github_pages/fig_1.png"/>
 </p>
